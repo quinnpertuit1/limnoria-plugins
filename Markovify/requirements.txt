@@ -1,0 +1,6 @@
+requests
+markovify
+spacy
+ftfy
+nltk
+psaw
